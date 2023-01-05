@@ -1,2 +1,2 @@
 # MathematicalModeling
-University MathematicalModeling tasks
+University MathematicalModeling tasks written on Python
